@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/EscenaInicio.unity
+    guid: 712c264f6e782b549b2b8706abbccb04
+  - enabled: 1
+    path: Assets/InterfaceMilena.unity
+    guid: 80689db0dcb6e6943af9aeb67e0f0593
   m_configObjects: {}
