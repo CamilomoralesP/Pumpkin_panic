@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/EscenaInicio.unity
     guid: 3258ab28a9cc07c46b09a720d800779f
   - enabled: 1
-    path: Assets/Scenes/Enemigos.unity
+    path: Assets/Scenes/EscenaPrincipal.unity
     guid: f819c3d3d7b8f4745b1a50796a410bf0
   m_configObjects: {}
