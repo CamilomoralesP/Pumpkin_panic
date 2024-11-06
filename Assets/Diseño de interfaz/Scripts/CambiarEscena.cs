@@ -7,9 +7,8 @@ using UnityEngine.UI;
 
 public class CambiarEscena : MonoBehaviour
 {
-    public void PasarOtraPantalla(string InterfaceMilena)
+    public void Jugar()
     {
-        SceneManager.LoadScene("InterfaceMilena");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
-    
 }

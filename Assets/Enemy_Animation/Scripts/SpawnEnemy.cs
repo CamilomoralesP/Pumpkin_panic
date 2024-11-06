@@ -6,7 +6,7 @@ public class SpawnEnemy : MonoBehaviour
 {
     public GameObject enemyPrefab;    // Prefab del enemigo
     public Transform[] spawnPoints;   // Puntos de respawn
-    public float respawnTime = 1f;    // Tiempo entre respawns
+    public float respawnTime = 5;    // Tiempo entre respawns
     public int maxEnemies = 5;        // Máximo de enemigos permitidos
     
     private int currentEnemyCount = 0; // Contador de enemigos actuales
